@@ -43,9 +43,7 @@ author: Tayah Linus
 copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-my e-portfolio is to showcase mainly my educational status and also
-my level of understanding in this course [itec442]
-most importantly IoT & Cybersecurity.
+my e-portfolio is to showcase mainly my educational status and also my level of understanding in this course [itec442] most importantly IoT & Cybersecurity.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
