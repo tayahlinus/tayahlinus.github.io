@@ -7,18 +7,18 @@ title: About
 
 ## BIOGRAPHY
 
-Hi, my name is Tayah Linus. I'm from Cameroon currently studying IT in North Cyprus at Eastern Mediterrenean University.
-This is my e-portfolio for my university course, IoT & Cybersecurity.
+Hi, my name is Tayah Linus. I'm from Cameroon currently studying IT in North Cyprus at Eastern Mediterrenean University.<br>
+This is my e-portfolio for my university course, IoT & Cybersecurity.<br>
 
-Here are some skills obtained upon completion of the IoT & Cybersecurity course.
-Wireless network attacks and security
-Traffic analysis and sniffing
-Network scanning and reconnaissance
-IoT device management
-Mitigations on any type of cyberattack
+Here are some skills obtained upon completion of the IoT & Cybersecurity course.<br>
+Wireless network attacks and security<br>
+Traffic analysis and sniffing<br>
+Network scanning and reconnaissance<br>
+IoT device management<br>
+Mitigations on any type of cyberattack<br>
 
-Currently studying:
-IoT & Cybersecurity [ITEC 442]
-Information security [ITEC 413]
-Web server development [ITEC 327]
-Software engineering [ITEC 316]
+Currently studying:<br>
+IoT & Cybersecurity [ITEC 442]<br>
+Information security [ITEC 413]<br>
+Web server development [ITEC 327]<br>
+Software engineering [ITEC 316]<br>
