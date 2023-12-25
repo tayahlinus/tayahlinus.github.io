@@ -47,3 +47,11 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 [jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
 [jekyll-feed]: https://github.com/jekyll/jekyll-feed
 [highlight-js]: https://github.com/highlightjs/highlight.js
+
+<img width="626" alt="sem1" src="https://github.com/tayahlinus/tayahlinus.github.io/assets/154364754/da87f2da-b4b4-4bbf-a179-f63015f90a73">
+
+<img width="633" alt="sem2" src="https://github.com/tayahlinus/tayahlinus.github.io/assets/154364754/baadb098-1909-4564-b6d7-b81dfc4f9403">
+
+
+
+
