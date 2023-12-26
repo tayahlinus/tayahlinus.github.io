@@ -93,7 +93,20 @@ the pro cybersecurity users always suggest to use a machine kali recommends, the
 
 If this were to work, it would have not distrupted the apple's website since there is only one node spamming the website with requests, and my IP would probably get flagged for a couple of hours/days.
 
+### DIGITALISATION
 
+The digital economy has rapidly transformed the way businesses operate and interact with customers, and has brought about significant benefits such as increased efficiency, convenience, and innovation. However, this shift towards a more digital economy has also brought about new security implications, particularly in terms of cyber threats and vulnerabilities. In this response, I will examine the security implications of the digital economy based on the works of Wei et al. (2019) and Spremic and Simunic (2018), and provide my own reflections and thoughts on the subject.
+
+Wei et al. (2019) define a 'fully digital enterprise' as an organization that has fully embraced digital technology in all aspects of its operations, from internal processes and communication to customer interactions and transactions. The authors note that while this digital transformation can bring about significant benefits, it also creates new vulnerabilities and potential security risks that must be addressed.
+
+One of the major cyber security challenges associated with a fully digital enterprise is the increased risk of cyber attacks. As Spremic and Simunic (2018) note, the digitalization of business processes and data has made organizations more vulnerable to cyber threats such as hacking, malware, and ransomware attacks. In addition, the interconnectedness of digital systems means that a single breach can have far-reaching consequences, potentially affecting a large number of stakeholders.
+
+Another challenge associated with a fully digital enterprise is the need to implement effective security measures across all aspects of the organization. This includes not just technical measures such as firewalls and encryption, but also policies and procedures to ensure that employees are aware of security risks and are trained to handle sensitive data securely. As Wei et al. (2019) note, a lack of security awareness and training can be a significant vulnerability in a fully digital enterprise.
+
+In conclusion, the digital economy has brought about significant benefits and opportunities for businesses, but it has also created new security implications and challenges. A fully digital enterprise faces increased cyber security risks, and effective security measures must be implemented across all aspects of the organization. For bricks and mortar SMEs, becoming a digital enterprise can be particularly challenging, and additional resources and expertise may be needed to ensure that security risks are effectively managed. Finally, in light of the energy crisis, it is important to consider the sustainability of the digital economy and to balance the benefits of digital transformation with the need to reduce energy consumption and minimize environmental impact.
+
+References:
+Spremic, M., & Simunic, D. (2018). Cybersecurity challenges in the digital economy. Interdisciplinary Description of Complex Systems: INDECS, 16(3-B), 432-442.
 
 
 
