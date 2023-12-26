@@ -46,3 +46,6 @@ Overcoming Challenges:<br>
 Try using alternative DNS servers.<br>
 Use online tools or VPNs to overcome network restrictions.
 
+### Solar Winds Article
+
+[solarwinds1.docx](https://github.com/tayahlinus/tayahlinus.github.io/files/13772570/solarwinds1.docx)
