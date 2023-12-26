@@ -72,7 +72,7 @@ As i said, any target is more likely to click on https://imghost.pics/join.php?i
 The exact same results, maybe even better, more realistic for the target since they will be redirected to an actual website and half the hassle for the person setting the trap, hope you enjoyed this experiment!
 
 ### DDOS
-<strong>DDOS Attack</strong>
+<strong>DDOS Attack</strong><br>
 In this experiment we will be using Metasploit to flood a server with requests, making it unavailable for other users
 to do this we need an IP address that we can obtain by using the scanning methods or honeypot that we talked about before
 Let's say i didn't like the way apple made their new iphone so i'll be using their Website's IP address for the sake of this experiment, as of writing this the IP that i have obtained using Pingplotter for apple is : 17.253.144.10
