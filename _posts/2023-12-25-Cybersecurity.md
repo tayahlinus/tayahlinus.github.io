@@ -71,4 +71,30 @@ As i said, any target is more likely to click on https://imghost.pics/join.php?i
 
 The exact same results, maybe even better, more realistic for the target since they will be redirected to an actual website and half the hassle for the person setting the trap, hope you enjoyed this experiment!
 
+### DDOS
+<strong>DDOS Attack</strong>
+In this experiment we will be using Metasploit to flood a server with requests, making it unavailable for other users
+to do this we need an IP address that we can obtain by using the scanning methods or honeypot that we talked about before
+Let's say i didn't like the way apple made their new iphone so i'll be using their Website's IP address for the sake of this experiment, as of writing this the IP that i have obtained using Pingplotter for apple is : 17.253.144.10
+we open Metasploit and we are met with this:
+
+<img width="725" alt="DDOS1" src="https://github.com/tayahlinus/tayahlinus.github.io/assets/154364754/a7595afa-1164-45f8-80d2-c422787414fe">
+
+Here we follow what the Doccument says: Then use the select the auxiliary “auxiliary/dos/TCP/synflood” by typing the following command. Msf6 > use auxiliary/dos/tcp/synflood Msf6> show options
+
+<img width="1074" alt="DDOS2" src="https://github.com/tayahlinus/tayahlinus.github.io/assets/154364754/4058e440-f88a-4573-9587-bf10f30ffa5a">
+
+And we follow buy inputting our IP address of choice, in this case apple's in the host section and then we type exploit, here's what we get:
+
+<img width="1075" alt="DDOS3" src="https://github.com/tayahlinus/tayahlinus.github.io/assets/154364754/e471d10a-1b40-48e2-a5eb-93f51ceabf88">
+
+We get an error here, after researching about the cause of this, it seems to be due to the way my OS has been configured, since i have installed KALI directly on mire drive (not using a VM) Kali does not recognize my wireless lan adapter and/or is not willing to use it, anyways, since the first time in class i have been trying to get this to work but it just doesn't seem to want to work, however we know the expected outcome from this and the cause,
+the pro cybersecurity users always suggest to use a machine kali recommends, they also recommend desktops as suppoused to Laptops because there is better driver support for them, this error brings our experiment to an end here.
+
+If this were to work, it would have not distrupted the apple's website since there is only one node spamming the website with requests, and my IP would probably get flagged for a couple of hours/days.
+
+
+
+
+
 
