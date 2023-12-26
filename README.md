@@ -52,6 +52,7 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 
 <img width="633" alt="sem2" src="https://github.com/tayahlinus/tayahlinus.github.io/assets/154364754/baadb098-1909-4564-b6d7-b81dfc4f9403">
 
+[solarwinds1.docx](https://github.com/tayahlinus/tayahlinus.github.io/files/13772570/solarwinds1.docx)
 
 
 
