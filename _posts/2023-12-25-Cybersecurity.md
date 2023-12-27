@@ -108,7 +108,5 @@ In conclusion, the digital economy has brought about significant benefits and op
 References:
 Spremic, M., & Simunic, D. (2018). Cybersecurity challenges in the digital economy. Interdisciplinary Description of Complex Systems: INDECS, 16(3-B), 432-442.
 
-### CYBERSECURITY CHALLENGES IN DIGITAL ECONOMY
-<strong>Article</strong>
 
 
