@@ -213,5 +213,13 @@ Conclusion:
 Integrating cybersecurity throughout the entire IoT life cycle is essential for building a resilient and secure IoT ecosystem. This approach involves a combination of technical measures, user education, and adherence to best practices to address the evolving threat landscape and protect both the devices and the data they handle. Regular assessments, updates and a proactive security mindset are key elements in achieving a robust cybersecurity posture for IoT deployments.
 
 
+### CYBERSECURITY CHALLENGES IN DIGITAL ECONOMY
 
+Upon reading the article we can see that The article highlights the growing importance of cybersecurity in the digital economy and the various challenges that organizations face in ensuring the security of their digital assets. The authors discuss how the increasing adoption of digital technologies and the Internet of Things (IoT) has led to a proliferation of cyber threats, making it crucial for organizations to adopt a proactive approach to cybersecurity.
+
+The article identifies several key challenges that organizations face in ensuring the security of their digital assets, including the complexity of the digital environment, the lack of skilled cybersecurity professionals, and the increasing sophistication of cyber threats. The authors also discuss the importance of developing a comprehensive cybersecurity strategy that includes measures such as risk assessment, incident response planning, and employee training.
+
+In addition, the article highlights the importance of collaboration between different stakeholders, including government agencies, industry associations, and cybersecurity experts, in addressing cybersecurity challenges. The authors suggest that organizations should work together to share information about emerging threats and best practices for cybersecurity.
+
+Overall, Mario Spremić, Alen Šimunic's article provides valuable insights into the growing importance of cybersecurity in the digital economy and the various challenges that organizations face in ensuring the security of their digital assets. The article highlights the need for organizations to adopt a proactive approach to cybersecurity and to collaborate with other stakeholders to address emerging threats. 
 
