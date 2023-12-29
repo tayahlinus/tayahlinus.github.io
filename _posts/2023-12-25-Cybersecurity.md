@@ -48,6 +48,12 @@ Use online tools or VPNs to overcome network restrictions.
 
 ### Solar Winds Article
 
+<table>
+  <tr>
+    <th>Phase</th><th>Description</th><th>Identification in SolarWinds</th>
+  </tr>
+</table>
+
 [solarwinds1.docx](https://github.com/tayahlinus/tayahlinus.github.io/files/13772570/solarwinds1.docx)
 
 ### Honey Pot
@@ -115,7 +121,7 @@ Spremic, M., & Simunic, D. (2018). Cybersecurity challenges in the digital econo
 
 Securing the Internet of Things (IoT) throughout its life cycle is crucial to mitigate the evolving threats and vulnerabilities associated with connected devices. The IoT life cycle typically involves the following stages: device manufacturing, device deployment, device operation, and device end-of-life. Here's how cybersecurity can be integrated into each phase:<br>
 
-1. Device Manufacturing:<br>
+- Device Manufacturing:<br>
    
 a. Secure Boot and Firmware:
 Implement secure boot mechanisms to ensure that only authenticated and authorized firmware is loaded onto the device.<br>
@@ -129,7 +135,7 @@ Verify and secure the supply chain to prevent tampering or insertion of maliciou
 d. Encryption and Secure Communication:
 Implement strong encryption protocols for data in transit and ensure secure communication channels between devices and cloud services.<br>
 
-2. Device Deployment:<br>
+- Device Deployment:<br>
    
 a. Authentication and Access Control:
 Implement robust authentication mechanisms to ensure that only authorized users and devices can access the IoT ecosystem.<br>
@@ -143,7 +149,7 @@ Employ network segmentation and firewalls to isolate IoT devices from critical s
 d. Security Configuration:
 Configure devices with the principle of least privilege, disabling unnecessary services and ensuring that default passwords are changed.<br>
 
-3. Device Operation:
+- Device Operation:
    
 a. Continuous Monitoring:
 Implement continuous monitoring of device behavior to detect anomalies or suspicious activities that may indicate a security breach.<br>
@@ -157,7 +163,7 @@ Develop and implement an incident response plan to efficiently address and mitig
 d. User Education:
 Educate end-users and administrators about security best practices, emphasizing the importance of strong passwords and security awareness.<br>
 
-4. Device End-of-Life:<br>
+- Device End-of-Life:<br>
    
 a. Data Sanitization:
 Ensure that all sensitive data is properly wiped or sanitized from the device before decommissioning to prevent data leakage.<br>
