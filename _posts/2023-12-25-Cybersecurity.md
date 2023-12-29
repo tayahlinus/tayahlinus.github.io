@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IoT & Cybersecurity E-portfolio
-subtitle:
+subtitle: Cybersecurity
 categories: Website
 tags: [Github, website]
 ---
@@ -107,6 +107,73 @@ In conclusion, the digital economy has brought about significant benefits and op
 
 References:
 Spremic, M., & Simunic, D. (2018). Cybersecurity challenges in the digital economy. Interdisciplinary Description of Complex Systems: INDECS, 16(3-B), 432-442.
+
+### CYBERSECURITY THROUGH-OUT THE IoT LIFE CYCLE
+
+<img width="903" alt="cybinIot" src="https://github.com/tayahlinus/tayahlinus.github.io/assets/154364754/eec43ee5-2b89-4d47-a2ac-65729fb737df">
+
+
+Securing the Internet of Things (IoT) throughout its life cycle is crucial to mitigate the evolving threats and vulnerabilities associated with connected devices. The IoT life cycle typically involves the following stages: device manufacturing, device deployment, device operation, and device end-of-life. Here's how cybersecurity can be integrated into each phase:<br>
+
+1. Device Manufacturing:<br>
+   
+a. Secure Boot and Firmware:
+Implement secure boot mechanisms to ensure that only authenticated and authorized firmware is loaded onto the device.<br>
+
+b. Device Identity Management:
+Assign unique identifiers to each device to facilitate secure authentication and communication.<br>
+
+c. Supply Chain Security:
+Verify and secure the supply chain to prevent tampering or insertion of malicious components during the manufacturing process.<br>
+
+d. Encryption and Secure Communication:
+Implement strong encryption protocols for data in transit and ensure secure communication channels between devices and cloud services.<br>
+
+2. Device Deployment:<br>
+   
+a. Authentication and Access Control:
+Implement robust authentication mechanisms to ensure that only authorized users and devices can access the IoT ecosystem.<br>
+
+b. Over-the-Air (OTA) Updates:
+Enable secure and signed OTA updates to patch vulnerabilities and update device firmware throughout its operational life.<br>
+
+c. Network Security:
+Employ network segmentation and firewalls to isolate IoT devices from critical systems and limit the potential impact of a compromised device.<br>
+
+d. Security Configuration:
+Configure devices with the principle of least privilege, disabling unnecessary services and ensuring that default passwords are changed.<br>
+
+3. Device Operation:
+   
+a. Continuous Monitoring:
+Implement continuous monitoring of device behavior to detect anomalies or suspicious activities that may indicate a security breach.<br>
+
+b. Data Encryption and Integrity:
+Ensure end-to-end encryption of sensitive data and implement integrity checks to detect and prevent data tampering.<br>
+
+c. Incident Response Plan:
+Develop and implement an incident response plan to efficiently address and mitigate security incidents when they occur.<br>
+
+d. User Education:
+Educate end-users and administrators about security best practices, emphasizing the importance of strong passwords and security awareness.<br>
+
+4. Device End-of-Life:<br>
+   
+a. Data Sanitization:
+Ensure that all sensitive data is properly wiped or sanitized from the device before decommissioning to prevent data leakage.<br>
+
+b. Secure Disposal:
+Establish secure procedures for device disposal, including the physical destruction of components to prevent unauthorized access to residual data.<br>
+
+c. Patch Management:
+Provide a mechanism for secure end-of-life firmware updates to address any last-minute vulnerabilities.<br>
+
+d. Regulatory Compliance:
+Ensure compliance with data protection and privacy regulations during the decommissioning process.<br>
+
+Conclusion:
+Integrating cybersecurity throughout the entire IoT life cycle is essential for building a resilient and secure IoT ecosystem. This approach involves a combination of technical measures, user education, and adherence to best practices to address the evolving threat landscape and protect both the devices and the data they handle. Regular assessments, updates and a proactive security mindset are key elements in achieving a robust cybersecurity posture for IoT deployments.
+
 
 
 
