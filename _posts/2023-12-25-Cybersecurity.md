@@ -48,13 +48,45 @@ Use online tools or VPNs to overcome network restrictions.
 
 ### Solar Winds Article
 
+<strong>Table analyzing the SolarWinds exploit using the Cyberkillchain:</strong>
 <table>
   <tr>
     <th>Phase</th><th>Description</th><th>Identification in SolarWinds</th>
   </tr>
+  <tr><td>Reconnaissance</td><td>The attacker gather information about the target system or organisation</td><td>Not identified in the article</td></tr>
+  <tr><td>Weaponization</td><td>The attacker creates a weapon such as a virus or malware </td><td>Identified - the attacker injected malicious code into the SolarWinds Orion software update</td></tr>
+  <tr><td>Delivery</td><td>The attacker delivers the weapon to the target system</td><td>Identified - the malicious code was delivered through the SolarWinds software update</td></tr>
+  <tr><td>Exploitation</td><td>The attacker exploits a vulnerability in the system to gain access</td><td>Identified - the malicious code exploited a zero-day vulnerability in the Orion software</td></tr>
+  <tr><td>Installation</td><td>The attacker installs the malware on the system</td><td>Identified - the malicious code was installed on the system of SolarWinds' customers</td></tr>
+  <tr><td>Command and Control - C2</td><td>The attacker establishes communication with the malware to control it</td><td>Identified - the malware communicated with the attacker's C2 server to receive commands</td></tr>
+  <tr><td>Actions on Objectives</td><td>The attacker achieves their goal, which could include stealing data or causing damage to the system</td><td>Identified - the attacker stole sensitive data from the network of SolarWinds' customers</td></tr>
 </table>
 
-[solarwinds1.docx](https://github.com/tayahlinus/tayahlinus.github.io/files/13772570/solarwinds1.docx)
+<strong>Possible mitigation in each phase</strong>
+<table>
+  <tr><th>Phase</th><th>Possible Mitigations</th></tr>
+  <tr><td>Reconnaissance</td><td>Implement network segmentation and access controls to limit the attacker's ability to gather information.</td></tr>
+  <tr><td>Weaponization</td><td>Use code signing and software integrity verification to prevent the injection of malicious code.</td></tr>
+  <tr><td>Delivery</td><td>Implement software supply chain security controls, such as verifying the integrity of software updates and monitoring for suspicious activity.</td></tr>
+  <tr><td>Exploitation</td><td>Use intrusion detection and prevention systems to identify and block attacks. Keep software up-to-date with the latest security patches.</td></tr>
+  <tr><td>Installation</td><td>Use endpoint security controls, such as anti-virus and anti-malware software to prevent the installation of malicious code.</td></tr>
+  <tr><td>Command and Control - C2</td><td>Monitor network traffic for suspicious activity and block communication with known C2 servers.</td></tr>
+  <tr><td>Actions on Objectives</td><td>Implement data loss prevention and access control measures to limit the attacker's ability to steal data or cause damage. Have a well-defined incident response plan in place to quickly respond to and contain a breach.</td></tr>
+</table>
+
+<strong>Tools that could be used in each phase</strong>
+<table>
+  <tr><th>Phase</th><th>Tools</th><th>Reasons</th></tr>
+  <tr><td>Reconnaissance</td><td>Network monitoring tools such as intrusion detection systems- IDS and security information and event management- SIEM systems.</td><td>These tools can detect and alert on suspicious activity, such as scanning or probing of the network.</td></tr>
+  <tr><td>Weaponization</td><td>Code signing and software integrity verification tools</td><td>These tools can verify that software updates are authentic and have not been tampered with.</td></tr>
+  <tr><td>Delivery</td><td>Software supply chain security tools, such as software composition analysis- SCA and software bill of material- SBOM tools.</td><td>These tools can help to identify and manage the risk associated with third party software components.</td></tr>
+  <tr><td>Exploitation</td><td>Vulnerability scanning and patch management tools.</td><td>These tools can identify and prioritize vulnerabilities in software and help to ensure that patches are applied in a timely manner.</td></tr>
+  <tr><td>Installation</td><td>Endpoint security tools, such as anti-virus and anti-malware software.</td><td>These tools can detect and prevent the installation of malicious code on endpoints.</td></tr>
+  <tr><td>Command and Control- C2</td><td>Network monitoring and threat intelligence tools.</td><td>These tools can detect and alert on communication with known C2 servers and provide information about the attacker's tactics and techniques.</td></tr>
+  <tr><td>Actions on Objectives</td><td>Data loss prevention- DLP and access control tools.</td><td>These tools can to prevent unauthorized access to sensitive data and limit the attacker's ability to steal data or cause damages.</td></tr>
+</table><br>
+
+SolarWinds exploit demonstrated the effectiveness of a sophisticated attack that utilized multiple stages of the Cyber Kill Chain. While some phases, such as reconnaissance, were not explicitly identified in the article, the attack highlights the importance of implementing security controls and tools across all stages of the Cyber Kill Chain. Effective mitigations for each phase include network segmentation, code signing, software supply chain security controls, vulnerability scanning, endpoint security controls, and monitoring for suspicious activity. The tools that could be used in each phase include network monitoring tools, vulnerability scanning and patch management tools, endpoint security tools, and threat intelligence and monitoring tools.
 
 ### Honey Pot
 
